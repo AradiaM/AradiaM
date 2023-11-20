@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Aradia Mauras</h1>
 <h3 align="center">A creative and energetic full stack developer</h3>
 
-- 🔭 I’m currently working on [Project name](link)
+<!--- 🔭 I’m currently working on [Project name](link)-->
 
 - 🌱 I’m currently learning **React, Node.js**
 
